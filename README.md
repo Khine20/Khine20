@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋
+Welcome to my GitHub profile! I'm Khine, a passionate learner who loves to create and contribute to open-source projects
+## About Me
+- 🔭 I’m currently working on SBUHacks 2025 project
+- 🌱 I’m currently learning Data Structures and Algorithm
+- 📫 How to reach me: LinkedIn
+- ⚡ Fun fact: I love arts history and museums.
 
-<!--
-**Khine20/Khine20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khine-su-t-1557a1200)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:khinesuthar1007@gmail.com)
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Khine20/count.svg)
