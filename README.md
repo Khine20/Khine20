@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to my GitHub profile! I'm Khine, a passionate learner who loves to create and contribute to open-source projects
 ## About Me
-- 🔭 I’m currently working on SBUHacks 2025 project
+- 🔭 I’m currently studying CS!
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love arts history and museums.
