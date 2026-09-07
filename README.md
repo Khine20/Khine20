@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm Khine, a passionate learner who loves to create and contribute to open-source projects
 ## About Me
 - 🔭 I’m currently studying CS!
-- 🌱 I’m currently learning Data Structures and Algorithm
+- 🌱 I’m currently learning Artificial Intelligence in my class.
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I love arts history and museums.
 
