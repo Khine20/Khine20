@@ -9,5 +9,3 @@ Welcome to my GitHub profile! I'm Khine, a passionate learner who loves to creat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khine-su-t-1557a1200)
 [![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:khinesuthar1007@gmail.com)
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Khine20/count.svg)
